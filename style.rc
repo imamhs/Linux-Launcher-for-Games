@@ -1,0 +1,34 @@
+style "text_info"
+{
+      fg[NORMAL] = {1.0, 1.0, 1.0}
+      font_name = "Liberation Sans 10"
+}
+
+style "text_button"
+{
+      font_name = "Liberation Sans 10"
+}
+
+widget "*About_Info" style "text_info"
+widget "*Setup_Info" style "text_info"
+widget "*Setup_Status" style "text_info"
+widget "*Setup_Label" style "text_info"
+widget "*About_Back*" style "text_button"
+widget "*Setup_Browse*" style "text_button"
+widget "*Setup_Install*" style "text_button"
+widget "*Setup_Back*" style "text_button"
+widget "*Location_Select*" style "text_button"
+widget "*Location_Cancel*" style "text_button"
+widget "*EXE_Select*" style "text_button"
+widget "*EXE_Cancel*" style "text_button"
+widget "*Option_Path" style "text_info"
+widget "*Option_Browse*" style "text_button"
+widget "*Option_Arg" style "text_info"
+widget "*Option_Windowed" style "text_info"
+widget "*Option_Mouse" style "text_info"
+widget "*Option_Back*" style "text_button"
+widget "*Option_Defaults*" style "text_button"
+widget "*Icon_About*" style "text_button"
+widget "*Icon_Option*" style "text_button"
+widget "*Icon_Info" style "text_info"
+widget "*Icon_Status" style "text_info"
