@@ -1,4 +1,4 @@
-Linux Launcher for Games is a helper application designed to easily install and play Windows games on Linux distributions. To be able to use this application successfully, you will need game installation disk or ISO file and an Ubuntu based Linux distribution.
+Linux Launcher for Games is a helper application based on Wine (www.winehq.org) designed to easily install and play Windows games on Linux distributions. To be able to use this application successfully, you will need game installation disk or ISO file and an Ubuntu based Linux distribution.
 
 Please follow these steps to use Linux Launcher for Games:
 
