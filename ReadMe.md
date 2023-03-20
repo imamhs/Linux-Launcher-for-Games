@@ -24,5 +24,5 @@ Additional notes:
 The source code of Linux Launcher for Games was written for Need for Speed - Porsche Unleased game but can be changed to any game easily.
 
 Cheers,
-Md Imam Hossain
+Imam Hossain
 emamhd@gmail.com
