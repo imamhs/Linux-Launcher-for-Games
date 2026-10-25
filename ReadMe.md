@@ -1,4 +1,4 @@
-Linux Launcher for Games is a helper application based on Wine (www.winehq.org) designed to easily install and play Windows games on Linux distributions. To be able to use this application successfully, you will need game installation disk or ISO file and an Ubuntu based Linux distribution.
+Linux Launcher for Games is a game installation and launch application using Wine (www.winehq.org) designed to easily install Windows games from disk (CD/DVD/iso) and play on Linux distributions.
 
 ![Main window](screenshot/1.png)
 ![Main window 1](screenshot/2.png)
@@ -17,12 +17,6 @@ Additional notes:
 
 - You can access the game folder by going to game_folder folder.
 - Any save game files from the game are located under game_save folder.
-- You need approximately ~500 MB free space for the program in addition to the game.
 - The program is tested under Ubuntu 14.10 distributions
 
-
 The source code of Linux Launcher for Games was written for Need for Speed - Porsche Unleased game but can be changed to any game easily.
-
-Cheers,
-Imam Hossain
-emamhd@gmail.com
