@@ -1,3 +1,6 @@
+# License
+# See License.md for more details
+
 style "text_info"
 {
       fg[NORMAL] = {1.0, 1.0, 1.0}
